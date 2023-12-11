@@ -9,6 +9,7 @@ The Investment Calculator is a simple React.js application that helps users esti
 - [Usage](#usage)
 - [Preview](#preview)
 - [Contributing](#contributing)
+- [Contact Me](#contact-me)
 
 ## Overview
 
